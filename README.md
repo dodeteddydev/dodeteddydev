@@ -4,7 +4,9 @@
 <a href="https://linkedin.com/in/dode-teddy-630a85239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dode-teddy-630a85239" height="30" width="40" /></a>
 <a href="https://instagram.com/dodeteddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dodeteddy" height="30" width="40" /></a>
 </p>
-<a align="center" href="https://ted-portfolio-ruby.vercel.app/" target="_blank">https://ted-portfolio-ruby.vercel.app/</a> 
+<p align="center">  
+<a href="https://ted-portfolio-ruby.vercel.app/" target="_blank">https://ted-portfolio-ruby.vercel.app/</a> 
+</p>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
