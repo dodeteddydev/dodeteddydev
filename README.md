@@ -5,7 +5,7 @@
 <a href="https://instagram.com/dodeteddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dodeteddy" height="30" width="40" /></a>
 </p>
 <p align="center">  
-<a href="https://portfolio-lovat-theta-51.vercel.app/" target="blank">PORTFOLIO/</a> 
+<a href="https://portfolio-lovat-theta-51.vercel.app/" target="blank">PORTFOLIO</a> 
 </p>
 
 <h3 align="center">Languages and Tools</h3>
