@@ -1,4 +1,3 @@
-## 💫 About Me:
 Hi 👋🏻, I'm Dode Teddy — a Junior Frontend Developer who's actively leveling up. My current goal is to become a Mid-Level Frontend Developer.
 
 
