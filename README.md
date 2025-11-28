@@ -1,7 +1,6 @@
 Hi 👋🏻, I'm Dode Teddy — a Frontend Developer who's actively leveling up.
 
-## 🚀 Check out my portfolio:  
-[https://portfolio-lovat-theta-51.vercel.app](https://portfolio-lovat-theta-51.vercel.app/)
+🚀 Check out my portfolio: [https://portfolio-lovat-theta-51.vercel.app](https://portfolio-lovat-theta-51.vercel.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dodeteddy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dode-teddy-630a85239) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dodeteddydev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dodeteddydev) 
